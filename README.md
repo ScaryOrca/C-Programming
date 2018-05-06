@@ -1,2 +1,2 @@
 # C-Programming
-Various C programming projects
+This repository contains various personal projects written in C.
